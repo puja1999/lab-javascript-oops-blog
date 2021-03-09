@@ -70,5 +70,5 @@ Modify the Blog class and add two methods to it: addTitle(), and addDescription(
 Setup `EventListeners`, so that we can display the entire blog for the users
 ![Image description](https://i1.faceprep.in/ProGrad/Mern-Blog-3.png)
 
-Happy Coding ProGrads❤️
+Happy Coding❤️
 
